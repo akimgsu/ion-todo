@@ -1,5 +1,8 @@
 {
   "name": "todo",
-  "integrations": {},
-  "type": "ionic-angular"
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "c0d66d65"
 }
